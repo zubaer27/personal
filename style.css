@@ -1,0 +1,94 @@
+body{
+  margin: 0;
+}
+
+h3,h2{
+    font-family: 'Rokkitt', serif;
+}
+
+.top{
+
+    margin-top: 10px;
+    margin: 1px;
+    width: 100%;
+    height: 450px;
+
+    margin-bottom: 40px;
+    background-image: url(images/header-bg.png);
+
+
+}
+
+
+.half-width{
+    width: 45%;
+    float: left;
+    padding-left: 40px;
+    margin-top: 30px;
+}
+
+ .half-width img{
+    
+    width: 100%;
+}
+
+
+
+.btn{
+    text-decoration: none;
+    background-color: orangered;
+    padding: 6px 20px;
+    color: white;
+    border-radius: 8px;
+}
+
+.middle{
+    height: 500px;
+    background-image: url(images/biography-bg.png);
+}
+
+.middle .mid-img{
+    width: 80%;
+    margin-top: 10px;
+}
+
+ .latest img{
+    width: 30%;
+    
+}
+
+.img{
+
+    height: 400px;
+   
+    float: left;
+   
+}
+
+.jk{
+    float: left;
+    padding-left: 20px;
+    margin-top: 30px;
+}
+
+.lt{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+   
+}
+
+.last{
+    margin: auto;
+    width: 300px;
+    height: 50px;
+
+    text-align: center;
+    margin-bottom: 20px;
+    padding:10px;
+    border-radius: 8px;
+    background-color: tomato;
+    color: white;
+}
